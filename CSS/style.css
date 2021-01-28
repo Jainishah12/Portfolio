@@ -1,4 +1,5 @@
 body{
+    
     background-color: rgb(228, 241, 250);
     text-align: center;
 }
@@ -8,4 +9,8 @@ h3{
 h1{
     color: #b22222;
     font-family:serif;
+}
+.profileback{
+    width: 100%;
+    padding: 0%;
 }
