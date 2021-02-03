@@ -7,22 +7,22 @@ body{
     color:#bdd5f1;
     
 }
-a:hover{
-    font-size: 25px;
-    background-color: rgb(235, 153, 53);
-}
 a{
     color: #bdd5f1;
+    text-decoration: none;
 }
 a:visited{
     color: #bdd5f1;            
 }
+a:hover{
+    font-size: 25px;
+    text-decoration: underline;
+    background-color: rgb(235, 153, 53);
+}
 hr{
     color:#053b79
 }
-h3{
-    color;
-}
+
 h1{
     font-family: cursive;
 }
