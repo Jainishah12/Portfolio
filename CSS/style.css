@@ -4,13 +4,14 @@ body{
     text-align: center;
     background-image: url(/Users/jainishah/Documents/Github/Portfolio/Portfolio/Images/background1.jpg);
     background-repeat: no-repeat;
+    color:darkgoldenrod;
     
 }
 h3{
     color: #b22222;
 }
 h1{
-    color: rgba(235, 164, 167, 0.945);
+    color:rgb(214, 138, 39);
     font-family:'Times New Roman', Times, serif;
 }
 
