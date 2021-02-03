@@ -4,15 +4,27 @@ body{
     text-align: center;
     background-image: url(/Users/jainishah/Documents/Github/Portfolio/Portfolio/Images/background1.jpg);
     background-repeat: no-repeat;
-    color:darkgoldenrod;
+    color:#bdd5f1;
     
 }
+a:hover{
+    font-size: 25px;
+    background-color: rgb(235, 153, 53);
+}
+a{
+    color: #bdd5f1;
+}
+a:visited{
+    color: #bdd5f1;            
+}
+hr{
+    color:#053b79
+}
 h3{
-    color: #b22222;
+    color;
 }
 h1{
-    color:rgb(214, 138, 39);
-    font-family:'Times New Roman', Times, serif;
+    font-family: cursive;
 }
 
 hr{
