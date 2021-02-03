@@ -2,15 +2,21 @@ body{
     
     background-color: rgb(228, 241, 250);
     text-align: center;
+    background-image: url(/Users/jainishah/Documents/Github/Portfolio/Portfolio/Images/background1.jpg);
+    background-repeat: no-repeat;
+    
 }
 h3{
     color: #b22222;
 }
 h1{
-    color: #b22222;
+    color: rgba(235, 164, 167, 0.945);
     font-family:serif;
 }
-.profileback{
-    width: 100%;
-    padding: 0%;
+
+hr{
+    border-style: none;
+    border-top-style:double;
+    width: 20%;
+    border-width: 3px;
 }
