@@ -2,25 +2,22 @@ body{
     
     background-color: rgb(228, 241, 250);
     text-align: center;
-    background-image: url(/Users/jainishah/Documents/Github/Portfolio/Portfolio/Images/background1.jpg);
+    background-image: url(../Images/background1.jpg);
     background-repeat: no-repeat;
-    color:#bdd5f1;
+    color:#d0e2f7;
     
 }
 a{
-    color: #bdd5f1;
+    color: #d0e2f7;
     text-decoration: none;
 }
 a:visited{
-    color: #bdd5f1;            
+    color: #d0e2f7;            
 }
 a:hover{
     font-size: 25px;
     text-decoration: underline;
     background-color: rgb(235, 153, 53);
-}
-hr{
-    color:#053b79
 }
 
 h1{
@@ -30,6 +27,10 @@ h1{
 hr{
     border-style: none;
     border-top-style:double;
-    width: 20%;
+    width: 25%;
     border-width: 3px;
+    color:#053b79;
+}
+.checked{
+    color:gold
 }
