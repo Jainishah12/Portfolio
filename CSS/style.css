@@ -5,6 +5,7 @@ body{
     background-image: url(../Images/background1.jpg);
     background-repeat: no-repeat;
     color:#d0e2f7;
+    background-size:cover;
     
 }
 a{
