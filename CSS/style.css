@@ -1,5 +1,5 @@
 body{
-    
+    margin: 0px;
     background-color: rgb(228, 241, 250);
     text-align: center;
     background-image: url(../Images/background1.jpg);
@@ -23,6 +23,7 @@ a:hover{
 
 h1{
     font-family: cursive;
+    margin-bottom: 0px;
 }
 
 hr{
@@ -31,7 +32,11 @@ hr{
     width: 25%;
     border-width: 3px;
     color:#053b79;
+    margin-top: 5px;
 }
 .checked{
     color:gold
+}
+h3{
+    margin:0px 0px;
 }
