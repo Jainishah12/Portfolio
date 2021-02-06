@@ -6,6 +6,7 @@ body{
     background-repeat: no-repeat;
     color:#d0e2f7;
     background-size:cover;
+    font-family: 'Merriweather', serif;
     
 }
 a{
@@ -22,8 +23,10 @@ a:hover{
 }
 
 h1{
-    font-family: cursive;
+    font-family: 'Sacramento', cursive;
     margin-bottom: 0px;
+    font-size: 2.62rem;
+    margin: 10px auto 0px auto;
 }
 
 hr{
