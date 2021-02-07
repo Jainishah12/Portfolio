@@ -24,24 +24,26 @@ a:hover{
 
 h1{
     font-family: 'Sacramento', cursive;
-    margin-bottom: 0px;
     font-size: 2.62rem;
-    margin: 10px auto 0px auto;
+    margin: 30px auto 20px auto;
 }
 
 hr{
     border-style: none;
     border-top-style:double;
-    width: 25%;
+    width: 30%;
     border-width: 3px;
     color:#053b79;
-    margin-top: 5px;
+    
 }
 .checked{
     color:gold
 }
 h3{
     margin:0px 0px;
+}
+.profile{
+    margin: 40px auto auto auto;
 }
 .education{
     width: 60%;
@@ -62,8 +64,8 @@ h3{
 }
 .technicalskillsimg{
     width: 15%;
-    float:left;
-    margin-right: 30px;
+    float:right;
+    margin-left: 30px;
 }
 .project{
     width: 60%;
@@ -84,8 +86,8 @@ h3{
 }
 .workexperienceimg{
     width: 15%;
-    float:left;
-    margin-right: 30px;
+    float:right;
+    margin-left: 30px;
 }
 .aboutme{
     width: 60%;
@@ -106,6 +108,6 @@ h3{
 }
 .contactmeimg{
     width: 15%;
-    float:left;
-    margin-right: 30px;
+    float:right;
+    margin-left: 30px;
 }
