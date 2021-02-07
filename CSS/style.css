@@ -43,5 +43,69 @@ hr{
 h3{
     margin:0px 0px;
 }
-
-
+.education{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.educationimg{
+    width: 15%;
+    float:left;
+    margin-right: 30px;
+}
+.technicalskills{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.technicalskillsimg{
+    width: 15%;
+    float:left;
+    margin-right: 30px;
+}
+.project{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.projectimg{
+    width: 15%;
+    float:left;
+    margin-right: 30px;
+}
+.workexperience{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.workexperienceimg{
+    width: 15%;
+    float:left;
+    margin-right: 30px;
+}
+.aboutme{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.aboutmeimg{
+    width: 15%;
+    float:left;
+    margin-right: 30px;
+}
+.contactme{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.contactmeimg{
+    width: 15%;
+    float:left;
+    margin-right: 30px;
+}
